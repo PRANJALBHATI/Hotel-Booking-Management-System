@@ -1,0 +1,9 @@
+room_number,room_type,price,status
+101,Single,1500,Available
+102,Single,1500,Available
+103,Double,2500,Available
+104,Double,2500,Available
+105,Deluxe,3500,Available
+106,Deluxe,3500,Available
+107,Suite,5000,Available
+108,Suite,5000,Occupied
